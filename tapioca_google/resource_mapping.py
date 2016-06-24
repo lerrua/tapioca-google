@@ -1,8 +1,8 @@
 # coding: utf-8
 
 RESOURCE_MAPPING = {
-    'resource_name': {
-        'resource': 'resource_url',
-        'docs': 'http://www.documentation.com/link/to/resource/documentation'
+    'people': {
+        'resource': 'people/{id}',
+        'docs': 'https://developers.google.com/+/web/api/rest/?hl=en_US#api-calls'
     },
 }
