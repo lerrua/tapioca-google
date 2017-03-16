@@ -3,6 +3,6 @@
 RESOURCE_MAPPING = {
     'people': {
         'resource': 'people/{id}',
-        'docs': 'https://developers.google.com/+/web/api/rest/?hl=en_US#api-calls'
+        'docs': 'https://developers.google.com/+/web/api/rest/latest/people/get'
     },
 }
